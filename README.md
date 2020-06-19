@@ -1,4 +1,4 @@
 # Pterodactyl-Themes
 BlueAndEpic
 
-curl https://raw.githubusercontent.com/TheFonix/Pterodactyl-Themes/master/MasterThemes/PinkAnFluffy/build.sh | sh
+curl https://raw.githubusercontent.com/WigglePlayz/Pterodactyl-Themes/master/MasterThemes/BlueAndEpic/build.sh | sh
